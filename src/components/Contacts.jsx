@@ -36,8 +36,8 @@ const handleSubmit=(e)=>{
                 id:v4(),
                 ...contacts
                 
-            }))
-            
+            }));
+            onClose();
         }else{
           alert("please fill all creadentials")
         }
@@ -81,8 +81,7 @@ const viewContact=()=>{
 
   return (
     <div id="contact_page">
-      <Header></Header>
-
+<h2 className="bg-primary p-3 text-white">Contact Page</h2>
         <Heading ></Heading>
         <div id="contact_page_div">
             {window.innerWidth>900?<Box padding={"10px"} w={"19%"} boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"}>
