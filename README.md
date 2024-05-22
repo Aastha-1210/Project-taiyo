@@ -10,23 +10,19 @@ Node.js (which includes npm)
 Installation
 Clone the repository to your local machine:
 
-sh
-Copy code
-git clone https://github.com/Aastha-1210/Project-taiyo
-cd Project-taiyo
+
+Step 1: git clone https://github.com/Aastha-1210/Project-taiyo
+Step 2: cd Project-taiyo
 
 # Install the project dependencies:
 
-sh
-Copy code
-npm install
+step 3: npm install --force
 
 # Running the Application
 Start the development server:
 
-sh
-Copy code
-npm start
+Step 4: npm start
+
 Open your browser and navigate to http://localhost:3000 to see the application in action.
 
 Additional Information
