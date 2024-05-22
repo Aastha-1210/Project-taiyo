@@ -11,7 +11,7 @@ Installation
 Clone the repository to your local machine:
 
 
-Step 1: git clone https://github.com/Aastha-1210/Project-taiyo .
+Step 1: git clone https://github.com/Aastha-1210/Project-taiyo.git  
 Step 2: cd Project-taiyo
 
 # Install the project dependencies:
